@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your **PubMed Fetcher** project:
-
----
 
 # **PubMed Fetcher**  
 
